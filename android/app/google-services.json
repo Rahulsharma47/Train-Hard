@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "245242762839",
+    "project_id": "train-hard-8e26c",
+    "storage_bucket": "train-hard-8e26c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245242762839:android:4734032b4919157de2f512",
+        "android_client_info": {
+          "package_name": "com.example.train_hard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwiGBd3ZbkF-WnijvS1w2JgyjbbhCQ9QI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
